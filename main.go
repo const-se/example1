@@ -7,5 +7,5 @@ func main() {
 }
 
 func greeting() {
-	fmt.Println("Hello, world!!!")
+	fmt.Println("Hello, world!!")
 }
